@@ -10,5 +10,5 @@ while true; do
   open /Applications/AltTab.app
   
   # Wait for 3 minutes (180 seconds)
-  sleep 180
+  sleep 1800
 done
