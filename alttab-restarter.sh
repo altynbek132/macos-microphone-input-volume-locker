@@ -8,6 +8,10 @@ while true; do
   pkill -f AltTab
   sleep 1
   open /Applications/AltTab.app
+
+  pkill -f Whispering
+  sleep 1
+  open /Applications/Whispering.app
   
   # Wait for 60 minutes (3600 seconds)
   sleep 3600
